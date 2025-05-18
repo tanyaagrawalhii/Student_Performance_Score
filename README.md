@@ -1,1 +1,1 @@
-# student pergormance score
+# student performance score
